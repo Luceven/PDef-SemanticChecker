@@ -1,0 +1,1 @@
+{ float a, int b, { a = 12*(a+b), float c, c = 12*12.1, { a = b} }, b = a }
